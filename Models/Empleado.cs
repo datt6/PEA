@@ -16,6 +16,7 @@ namespace AplicacionWebNomina.Models
         public string nombre { get; set; }
         public string apellido { get; set; }
         public string correo { get; set; }
+        public string edad { get; set; }
         public string genero { get; set; }
         public DateTime fechaIngreso { get; set; }
         public string clave { get; set; }
